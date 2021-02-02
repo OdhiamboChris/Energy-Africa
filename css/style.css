@@ -193,6 +193,13 @@ section {
     position: relative;
 }
 
+.roww {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 75px 0;
+    position: relative;
+}
+
 .no-padding-bottom .row, .no-padding-bottom div, .no-padding-bottom.row {
     padding-bottom: 0;
 }
