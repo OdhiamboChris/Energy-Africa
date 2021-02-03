@@ -196,7 +196,7 @@ section {
 .roww {
     max-width: 100%;
     margin: 0 auto;
-    padding: 75px 0;
+    padding: none;
     position: relative;
 }
 
